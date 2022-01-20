@@ -1,0 +1,13 @@
+# Editors
+*.swp
+*.swo
+*.kate-swp
+
+# File Managers
+.DS_Store
+.directory
+Thumbs.db
+
+# Git
+*.orig
+
